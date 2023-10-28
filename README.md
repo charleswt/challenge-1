@@ -28,4 +28,5 @@ This project was developed by [Your Name](https://github.com/charleswt/).
 
 ## License
 
-Please refer to the LICENSE file in the repository for details.
+Please refer to the LICENSE file in the repository for details.   
+  (https://github.com/charleswt/challenge-1/blob/main/LICENSE)
