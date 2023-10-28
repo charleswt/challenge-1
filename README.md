@@ -1,19 +1,31 @@
-# Project Title
+# Horiseon
 
-Horiseon Website
+Horiseon is an SEO optimization company, and this is their customer landing page.
 
 ## Table of Contents
 
-- [Project Title](#Horiseon Website)
-  - [About](#Website for marketing agency)
-  - [Usage](#Landing page)
-  - [License](#MIT)
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About
 
-This is a landing page for a marketing agency called, Horiseon. Horiseon's mission is to optimize customers seo placement. 
+The purpose of this project was to enhance my front-end development skills and understanding. During this process, I improved the improper HTML semantics and eliminated repeated CSS. The website now features proper and concise code, which improves its search engine ranking and readability for other developers.
 
+## Getting Started
 
-### Prerequisites
+This section is not applicable as it's a description of the project's purpose and improvements.
 
-N/A
+## Usage
+
+This is a customer landing page, and it doesn't require specific usage instructions.
+
+## Contributing
+
+This project was developed by [Your Name](https://github.com/charleswt/).
+
+## License
+
+Please refer to the LICENSE file in the repository for details.
