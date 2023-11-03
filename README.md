@@ -26,6 +26,11 @@ This is a customer landing page, and it doesn't require specific usage instructi
 
 This project was developed by [Your Name](https://github.com/charleswt/).
 
+
+## Screenshot
+
+![screenshot](./Develop/assets/images/SEO-preview.jpeg)
+
 ## License
 
 Please refer to the LICENSE file in the repository for details.   
