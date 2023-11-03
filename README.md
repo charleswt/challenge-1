@@ -34,4 +34,4 @@ This project was developed by [Charles Tiffany](https://github.com/charleswt/).
 ## License
 
 Please refer to the LICENSE file in the repository for details.   
-  (https://github.com/charleswt/challenge-1/blob/main/LICENSE)
+  (./https://github.com/charleswt/challenge-1/blob/main/LICENSE)
