@@ -24,7 +24,7 @@ This is a customer landing page, and it doesn't require specific usage instructi
 
 ## Contributing
 
-This project was developed by [Your Name](https://github.com/charleswt/).
+This project was developed by [Charles Tiffany](https://github.com/charleswt/).
 
 
 ## Screenshot
