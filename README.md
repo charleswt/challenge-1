@@ -29,7 +29,7 @@ This project was developed by [Charles Tiffany](https://github.com/charleswt/).
 
 ## Screenshot
 
-![screenshot](./Develop/assets/images/SEO-preview.jpeg)
+![screenshot](./assets/images/SEO-preview.jpeg)
 
 ## License
 
